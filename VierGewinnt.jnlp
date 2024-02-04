@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jnlp spec="1.0+" codebase="." href="VierGewinnt.jnlp">
+    <information>
+        <title>Vier Gewinnt (Beta)</title>
+        <vendor>Hadi</vendor>
+    </information>
+    <resources>
+        <j2se version="1.8+" />
+        <jar href="Vier-Gewinnt (Beta).jar" main="true" />
+    </resources>
+    <application-desc main-class="Spielraum" />
+</jnlp>
